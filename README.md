@@ -1,5 +1,7 @@
 # Probabilistic Ontologies Demo
 
+> A Bayesian-network-annotated hypergraph ontology language, implemented and validated against its source paper's own worked example.
+
 A small Python library that demonstrates the ideas in:
 
 > Rafael Peñaloza, **"Introduction to Probabilistic Ontologies"**, tutorial
